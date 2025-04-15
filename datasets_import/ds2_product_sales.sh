@@ -1,0 +1,1 @@
+sqlldr CONTROL=ds2_product_sales.ctl   skip=1   

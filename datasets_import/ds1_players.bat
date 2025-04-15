@@ -1,0 +1,1 @@
+sqlldr project2324/project2324@//localhost:1521/XEPDB1 CONTROL=ds1_players.ctl   skip=1   

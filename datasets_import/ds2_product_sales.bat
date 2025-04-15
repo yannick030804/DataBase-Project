@@ -1,0 +1,1 @@
+sqlldr project2324/project2324@//localhost:1521/XEPDB1 CONTROL=ds2_product_sales.ctl   skip=1   
